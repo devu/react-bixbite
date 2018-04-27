@@ -1,0 +1,25 @@
+{
+  "name": "react-bixbite",
+  "version": "0.1.0",
+  "description": "Bixbite state manager for React using Signal/Slot system",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devu/react-bixbite.git"
+  },
+  "keywords": [
+    "Bixbite",
+    "React",
+    "State Manager",
+    "Signal/Slot"
+  ],
+  "author": "devu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devu/react-bixbite/issues"
+  },
+  "homepage": "https://github.com/devu/react-bixbite#readme"
+}
